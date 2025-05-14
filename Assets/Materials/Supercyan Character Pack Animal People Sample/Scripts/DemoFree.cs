@@ -9,10 +9,10 @@ namespace Supercyan.AnimalPeopleSample
         private Animator[] m_animators = null;
         [SerializeField] private FreeCameraLogic m_cameraLogic = null;
 
-        private void Start()
-        {
-            m_animators = FindObjectsOfType<Animator>();
-        }
+        // private void Start()
+        // {
+        //     m_animators = FindObjectsOfType<Animator>();
+        // }
 
         private void Update()
         {
