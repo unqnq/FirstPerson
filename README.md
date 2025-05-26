@@ -55,6 +55,21 @@ This is a **first-person shooter** game developed in Unity. The player must surv
 ---
 
 ## 📺 GIFs / Previews
+<div align="center">
+  ![Move](https://github.com/user-attachments/assets/06776afc-eb07-4eca-b25e-1a33ff3fb4aa)
+</div>
+<div align="center">
+  ![2025-05-26 18-30-12](https://github.com/user-attachments/assets/1107157a-d0a7-434b-bc8e-fc69492086ac)
+</div>
+<div align="center">
+  ![EnemyDeath](https://github.com/user-attachments/assets/171103c6-646f-4c6c-961a-c395f9aff242)
+</div>
+<div align="center">
+ ![UpgradeWeapon](https://github.com/user-attachments/assets/8723dd67-1b7c-4875-90b4-8f33bfa6b068)
+</div>
+<div align="center">
+ ![GameOver](https://github.com/user-attachments/assets/4a30a94b-c097-4949-92ff-2d742468f861)
 
+</div>
 
 
