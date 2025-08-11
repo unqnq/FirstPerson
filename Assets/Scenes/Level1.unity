@@ -3128,10 +3128,10 @@ RectTransform:
   - {fileID: 512339917}
   m_Father: {fileID: 1835016615}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -285}
-  m_SizeDelta: {x: 558.6329, y: 120.6129}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 255}
+  m_SizeDelta: {x: 558.6329, y: 120.612915}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &504512770
 MonoBehaviour:
@@ -10897,10 +10897,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1924934510}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 1}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -206.52026, y: -73.65823}
-  m_SizeDelta: {x: 413.04443, y: 147.31659}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 360, y: -181}
+  m_SizeDelta: {x: 650, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1643542349
 MonoBehaviour:
@@ -13453,8 +13453,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 385.86218, y: -73.65823}
-  m_SizeDelta: {x: 656.4229, y: 147.3166}
+  m_AnchoredPosition: {x: 360, y: -46.658234}
+  m_SizeDelta: {x: 650, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &2130070182
 PrefabInstance:
@@ -13810,6 +13810,18 @@ PrefabInstance:
     - target: {fileID: 5882452754644880063, guid: 32b240832b220da41a37eabf86d246ea, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8088787984550624469, guid: 32b240832b220da41a37eabf86d246ea, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8088787984550624469, guid: 32b240832b220da41a37eabf86d246ea, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 8088787984550624469, guid: 32b240832b220da41a37eabf86d246ea, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
       objectReference: {fileID: 0}
     - target: {fileID: 8904710262534262136, guid: 32b240832b220da41a37eabf86d246ea, type: 3}
       propertyPath: m_Name
